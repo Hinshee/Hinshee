@@ -1,4 +1,12 @@
-## Hi there 👋
+<img src="https://github.com/hinshee/hinshee/blob/main/Logo.png" align="right" height="150px">
+
+### Hi there 👋
+I'm Will Hinshaw, a jack of all trades, master of none.
+
+- [GSX Hub App](https://github.com/GSX-Hub/App) - GSX profile manager for Microsoft Flight Simulator 2020/2024
+- [GSX App Profiles](https://github.com/GSX-Hub/Profiles) - A community driven repo of profile available on GSX Hub App
+
+If you would like to support my work, consider [becoming a sponsor](https://github.com/sponsors/hinshee) 😊
 
 <!--
 **Hinshee/Hinshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
